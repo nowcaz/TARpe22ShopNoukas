@@ -5,6 +5,12 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe22ShopNoukas", "TARpe22ShopNoukas\TARpe22ShopNoukas.csproj", "{67B37EDE-9F95-435F-804F-7715D5A0BFFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe22ShopNoukas.Data", "TARpe22Shop.Data\TARpe22ShopNoukas.Data.csproj", "{EE234BAA-1113-425D-BF56-F2696CA8E6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe22ShopNoukas.Core", "TARpe22Shop.Core\TARpe22ShopNoukas.Core.csproj", "{76B3ACF3-0C6D-450E-9F75-54B3AD793593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe22ShopNoukas.ApplicationServices", "TARpe22Shop.ApplicationServices\TARpe22ShopNoukas.ApplicationServices.csproj", "{C820BC77-04DB-489A-AABE-50AC91DBA266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{67B37EDE-9F95-435F-804F-7715D5A0BFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B37EDE-9F95-435F-804F-7715D5A0BFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B37EDE-9F95-435F-804F-7715D5A0BFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE234BAA-1113-425D-BF56-F2696CA8E6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE234BAA-1113-425D-BF56-F2696CA8E6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE234BAA-1113-425D-BF56-F2696CA8E6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE234BAA-1113-425D-BF56-F2696CA8E6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B3ACF3-0C6D-450E-9F75-54B3AD793593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B3ACF3-0C6D-450E-9F75-54B3AD793593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B3ACF3-0C6D-450E-9F75-54B3AD793593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B3ACF3-0C6D-450E-9F75-54B3AD793593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C820BC77-04DB-489A-AABE-50AC91DBA266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C820BC77-04DB-489A-AABE-50AC91DBA266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C820BC77-04DB-489A-AABE-50AC91DBA266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C820BC77-04DB-489A-AABE-50AC91DBA266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
